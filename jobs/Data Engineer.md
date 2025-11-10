@@ -1,10 +1,9 @@
 # 🧮 Senior Data Engineer
 
-**Location:** Hybrid (PORTO,Portugal) 2x week 
-**Contract:** Permanent 
-
-**Budget:** up to 55k
-**Status:** 🟢 Active  
+**Location:** Hybrid (PORTO,Portugal) 2x week   
+**Contract:** Permanent  
+**Budget:** up to 55k  
+**Status:** 🟢 Active    
 
 ## About the Role
 We’re looking for a **hands-on Senior Data Engineer** to help design and build scalable, reliable, and secure data pipelines in Azure.  
