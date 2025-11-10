@@ -1,7 +1,8 @@
 # 🧮 Senior Data Engineer
 
 **Location:** Hybrid (PORTO,Portugal) 2x week 
-**Contract:** Permanent  
+**Contract:** Permanent 
+
 **Budget:** up to 55k
 **Status:** 🟢 Active  
 
