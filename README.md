@@ -2,6 +2,9 @@
 
 Welcome to my personal lab where I test, explore, and share what *actually works* in AI + Recruiting.
 
+💼 **Check my current open roles → [here](./jobs)**  
+🤖 **Explore AI tools & sourcing experiments → [here](./ai-tools-feedback)**  
+
 This repository is a mix of curiosity, experimentation, and honest insights from someone who believes AI won’t replace recruiters — but the ones who use it might. 😉
 
 ---
