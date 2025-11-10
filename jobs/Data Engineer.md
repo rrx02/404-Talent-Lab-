@@ -2,6 +2,7 @@
 
 **Location:** Hybrid (PORTO,Portugal) 2x week 
 **Contract:** Permanent  
+**Budget:** up to 55k
 **Status:** 🟢 Active  
 
 ## About the Role
